@@ -33,8 +33,7 @@ This project is a restaurant website designed to provide a welcoming and visuall
 ---
 
 ## LINK
-https://github.com/akm2006/Restaurant-Website/deployments/github-pages
----
+https://akm2006.github.io/Restaurant-Website/
 
 ## 🚀 Technologies Used
 
